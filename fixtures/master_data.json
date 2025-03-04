@@ -1,0 +1,548 @@
+{
+    "page_0": {
+        "titles": [
+            {
+                "text": "GRIFFON AVIATION SERVICES LLC",
+                "size": 10.5,
+                "font": "Arial-BoldMT",
+                "color": 0,
+                "alpha": 255,
+                "bbox": [
+                    6,
+                    6,
+                    283,
+                    17
+                ]
+            }
+        ],
+        "text_data": {
+            "PN": {
+                "key_data": {
+                    "text": "PN:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        41,
+                        37,
+                        49
+                    ]
+                },
+                "value_data": {
+                    "text": " tst",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        41,
+                        141,
+                        49
+                    ]
+                }
+            },
+            "SN": {
+                "key_data": {
+                    "text": "SN:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        41,
+                        156,
+                        49
+                    ]
+                },
+                "value_data": {
+                    "text": "123123",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        156,
+                        41,
+                        282,
+                        49
+                    ]
+                }
+            },
+            "DESCRIPTION": {
+                "key_data": {
+                    "text": "DESCRIPTION:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        52,
+                        69,
+                        60
+                    ]
+                },
+                "value_data": {
+                    "text": "PART",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        69,
+                        52,
+                        141,
+                        60
+                    ]
+                }
+            },
+            "LOCATION": {
+                "key_data": {
+                    "text": "LOCATION:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        63,
+                        56,
+                        72
+                    ]
+                },
+                "value_data": {
+                    "text": "111",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        56,
+                        63,
+                        141,
+                        72
+                    ]
+                }
+            },
+            "CONDITION": {
+                "key_data": {
+                    "text": "CONDITION:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        63,
+                        187,
+                        72
+                    ]
+                },
+                "value_data": {
+                    "text": "FN",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        188,
+                        63,
+                        282,
+                        72
+                    ]
+                }
+            },
+            "RECEIVER#": {
+                "key_data": {
+                    "text": "RECEIVER#:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        75,
+                        61,
+                        83
+                    ]
+                },
+                "value_data": {
+                    "text": "9",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        61,
+                        75,
+                        141,
+                        83
+                    ]
+                }
+            },
+            "UOM": {
+                "key_data": {
+                    "text": "UOM:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        75,
+                        163,
+                        83
+                    ]
+                },
+                "value_data": {
+                    "text": "EA",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        163,
+                        75,
+                        282,
+                        83
+                    ]
+                }
+            },
+            "EXP DATE": {
+                "key_data": {
+                    "text": "EXP DATE:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        86,
+                        55,
+                        94
+                    ]
+                },
+                "value_data": {
+                    "text": "13.04.2022",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        55,
+                        86,
+                        141,
+                        94
+                    ]
+                }
+            },
+            "PO": {
+                "key_data": {
+                    "text": "PO:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        86,
+                        157,
+                        94
+                    ]
+                },
+                "value_data": {
+                    "text": "P101",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        157,
+                        86,
+                        282,
+                        94
+                    ]
+                }
+            },
+            "CERT SOURCE": {
+                "key_data": {
+                    "text": "CERT SOURCE:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        97,
+                        72,
+                        105
+                    ]
+                },
+                "value_data": {
+                    "text": "wef",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        72,
+                        97,
+                        141,
+                        105
+                    ]
+                }
+            },
+            "REC.DATE": {
+                "key_data": {
+                    "text": "REC.DATE:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        108,
+                        55,
+                        117
+                    ]
+                },
+                "value_data": {
+                    "text": "18.04.2022",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        55,
+                        108,
+                        141,
+                        117
+                    ]
+                }
+            },
+            "MFG": {
+                "key_data": {
+                    "text": "MFG:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        108,
+                        162,
+                        117
+                    ]
+                },
+                "value_data": {
+                    "text": "efwfe",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        162,
+                        108,
+                        282,
+                        117
+                    ]
+                }
+            },
+            "BATCH#": {
+                "key_data": {
+                    "text": "BATCH# :",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        120,
+                        49,
+                        128
+                    ]
+                },
+                "value_data": {
+                    "text": "1",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        49,
+                        120,
+                        141,
+                        128
+                    ]
+                }
+            },
+            "DOM": {
+                "key_data": {
+                    "text": "DOM:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        120,
+                        163,
+                        128
+                    ]
+                },
+                "value_data": {
+                    "text": "13.04.2022",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        163,
+                        120,
+                        282,
+                        128
+                    ]
+                }
+            },
+            "REMARK": {
+                "key_data": {
+                    "text": "REMARK:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        131,
+                        48,
+                        139
+                    ]
+                },
+                "value_data": null
+            },
+            "LOT#": {
+                "key_data": {
+                    "text": "LOT# :",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        131,
+                        167,
+                        139
+                    ]
+                },
+                "value_data": {
+                    "text": "1",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        167,
+                        131,
+                        282,
+                        139
+                    ]
+                }
+            },
+            "TAGGED BY": {
+                "key_data": {
+                    "text": "TAGGED BY:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        13,
+                        142,
+                        61,
+                        150
+                    ]
+                },
+                "value_data": null
+            },
+            "Qty": {
+                "key_data": {
+                    "text": "Qty:",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        17,
+                        186,
+                        37,
+                        195
+                    ]
+                },
+                "value_data": {
+                    "text": " 1",
+                    "size": 7.5,
+                    "font": "ArialMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        17,
+                        186,
+                        141,
+                        195
+                    ]
+                }
+            },
+            "NOTES": {
+                "key_data": {
+                    "text": "NOTES:",
+                    "size": 7.5,
+                    "font": "Arial-BoldMT",
+                    "color": 0,
+                    "alpha": 255,
+                    "bbox": [
+                        141,
+                        142,
+                        170,
+                        150
+                    ]
+                },
+                "value_data": null
+            }
+        },
+        "rectangles": [
+            {
+                "text": "inspection notes",
+                "bbox": [
+                    143,
+                    152,
+                    278,
+                    204
+                ]
+            }
+        ],
+        "barcodes": [
+            {
+                "bbox": [
+                    20,
+                    155,
+                    81,
+                    184
+                ],
+                "text": "1"
+            },
+            {
+                "bbox": [
+                    14,
+                    18,
+                    258,
+                    38
+                ],
+                "text": "tst"
+            }
+        ]
+    }
+}
